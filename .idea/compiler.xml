@@ -9,10 +9,15 @@
         <module name="demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leosimoes-application-nutrition-portal" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="application-nutrition-portal-test" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="leosimoes-application-nutrition-portal" options="-parameters" />
     </option>
   </component>
 </project>
