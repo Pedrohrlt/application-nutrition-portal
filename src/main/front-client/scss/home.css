@@ -1,0 +1,11 @@
+.slider-item{
+  height: 700px;
+  object-fit: cover;
+}
+
+.leo-img{
+  margin-left: 60px;
+  height: 95%;
+  width: 90%;
+  object-fit: cover;
+}

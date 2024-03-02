@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="application-nutrition-portal-test" target="21" />
       <module name="leosimoes-application-nutrition-portal" target="21" />
     </bytecodeTargetLevel>
   </component>
